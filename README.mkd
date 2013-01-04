@@ -1,0 +1,2 @@
+High-level specs and notes for the Hackathon in a Box project. One of the goals of this project is to be as open as possible, so we should be open about our planning as well.
+
